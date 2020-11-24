@@ -17,15 +17,15 @@ Click [Here](https://public.tableau.com/profile/ana.carmona#!/vizhome/BikiCiti_N
 ![Bicycle Trips1](https://github.com/CristyCarmona/Bicycle_Trips_Analysis_NY/blob/main/Images/Bicycle%20Trips1.jpg)
 
 #### Customer type analysis
-![Bicycle Trips2](https://github.com/CristyCarmona/Bicycle_Trips_Analysis_NY/blob/main/Images/Bicycle%20Trips1.jpg)
+![Bicycle Trips2](https://github.com/CristyCarmona/Bicycle_Trips_Analysis_NY/blob/main/Images/Bicycle%20Trips2.jpg)
 
 ### Stations analysis 
-![Bicycle Trips3](https://github.com/CristyCarmona/Bicycle_Trips_Analysis_NY/blob/main/Images/Bicycle%20Trips1.jpg)
+![Bicycle Trips3](https://github.com/CristyCarmona/Bicycle_Trips_Analysis_NY/blob/main/Images/Bicycle%20Trips3.jpg)
 
 ### Gender analysis 
-![Bicycle Trips4](https://github.com/CristyCarmona/Bicycle_Trips_Analysis_NY/blob/main/Images/Bicycle%20Trips1.jpg)
+![Bicycle Trips4](https://github.com/CristyCarmona/Bicycle_Trips_Analysis_NY/blob/main/Images/Bicycle%20Trips4.jpg)
 
 ### Utilization analysis per bike 
-![Bicycle Trips5](https://github.com/CristyCarmona/Bicycle_Trips_Analysis_NY/blob/main/Images/Bicycle%20Trips1.jpg)
+![Bicycle Trips5](https://github.com/CristyCarmona/Bicycle_Trips_Analysis_NY/blob/main/Images/Bicycle%20Trips5.jpg)
 
 
