@@ -11,7 +11,7 @@ In this project you will find a usage analysis of the program through a Tableau 
 Click [Here](https://public.tableau.com/profile/ana.carmona#!/vizhome/BikiCiti_NY/Story1?publish=yes) to open the dashboard.
 
 
-### Here are some Findings
+### Here are some Findings:
 
 ### Overall trips analysis
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -29,7 +29,7 @@ Click [Here](https://public.tableau.com/profile/ana.carmona#!/vizhome/BikiCiti_N
 ----------------------------------------------------------------------------------------------------------------------------------------
 ![Bicycle Trips4](https://github.com/CristyCarmona/Bicycle_Trips_Analysis_NY/blob/main/Images/Bicycle%20Trips4.jpg)
 
-### Utilization analysis per bike 
+### Usage analysis per bike 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ![Bicycle Trips5](https://github.com/CristyCarmona/Bicycle_Trips_Analysis_NY/blob/main/Images/Bicycle%20Trips5.jpg)
 
