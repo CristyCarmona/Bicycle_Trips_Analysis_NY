@@ -12,6 +12,6 @@ Click [Here](https://public.tableau.com/profile/ana.carmona#!/vizhome/BikiCiti_N
 
 
 ## Findings
-![Bicycle Trips1](https://user-images.githubusercontent.com/64176733/100041454-34ee4a00-2dbe-11eb-8a42-eb9533754da6.jpg)
+![Bicycle Trips1](https://github.com/CristyCarmona/Bicycle_Trips_Analysis_NY/blob/main/Images/Bicycle%20Trips1.jpg)
 
 
